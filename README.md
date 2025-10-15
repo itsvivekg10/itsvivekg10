@@ -33,7 +33,7 @@ A passionate **Full Stack Web Developer** from India.
 ---
 
 ### 📫 How to Reach Me
-- Email: vivek.gupta@example.com  
+- Email: itsvivekg10@gmail.com  
 - WhatsApp: [+91 9555225128](https://wa.me/919555225128)  
 - Portfolio: [your-portfolio-link](https://vivekportfolio-chi-seven.vercel.app/)
 
