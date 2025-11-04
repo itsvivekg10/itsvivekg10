@@ -26,9 +26,9 @@ I love building responsive and user-friendly web applications using **React.js, 
 | Project | Description | Tech Stack | Live Demo |
 |----------|--------------|-------------|-------------|
 | **Car Marketplace App** | A full-stack platform for buying and selling cars. | React, Firebase, TailwindCSS | [View](#) |
-| **FitnessBuddy Dashboard** | Track workouts, chat, and monitor BMI using Firebase. | React, Firestore, Chart.js | [View](#) |
+| **FitnessBuddy Dashboard** | Track workouts, chat, and monitor BMI using Firebase. | HTML ,CSS ,JS Firestore, Chart.js | [View](#) |
 | **SkillSwap Platform** | Connect and exchange skills with others in real-time. | React, Firebase, Node.js | [View](#) |
-| **Video Streaming App** | YouTube-style video app using YouTube API. | React, API, CSS | [View](#) |
+| **Bankist App** | This application is use for transfer the amount and loan the amount. | HTML, CSS ,JS | [View](#) |
 
 ---
 
