@@ -42,10 +42,17 @@ I love building responsive and user-friendly web applications using **React.js, 
 
 ### 🌐 Connect With Me
 <p align="center">
-  <a href="[https://linkedin.com/in/your-linkedin](https://www.linkedin.com/in/vivek-gupta-038376247/)" ><img src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:itsvivekg10@gmail.com"><img src="https://img.shields.io/badge/Email-black?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="[https://yourportfolio.com](https://vivekportfolio-chi-seven.vercel.app/)" target="_blank"><img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/vivek-gupta-038376247/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:itsvivekg10@gmail.com">
+    <img src="https://img.shields.io/badge/Email-black?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://vivekportfolio-chi-seven.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
 </p>
+
 
 ---
 
