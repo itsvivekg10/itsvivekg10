@@ -25,10 +25,10 @@ I love building responsive and user-friendly web applications using **React.js, 
 
 | Project | Description | Tech Stack | Live Demo |
 |----------|--------------|-------------|-------------|
-| **Car Marketplace App** | A full-stack platform for buying and selling cars. | React, Firebase, TailwindCSS | [View](#) |
-| **FitnessBuddy Dashboard** | Track workouts, chat, and monitor BMI using Firebase. | HTML ,CSS ,JS Firestore, Chart.js | [View](#) |
-| **SkillSwap Platform** | Connect and exchange skills with others in real-time. | React, Firebase, Node.js | [View](#) |
-| **Bankist App** | This application is use for transfer the amount and loan the amount. | HTML, CSS ,JS | [View](#) |
+| **CarMarket App** | A full-stack platform for buying and selling cars. | React, Firebase, TailwindCSS | [View](https://car-market-swart.vercel.app/) |
+| **FitnessBuddy** | Track workouts, chat, and monitor BMI progress. | HTML, CSS, JS, Firestore, Chart.js | [View](https://fitnessbuddyy-xifb.vercel.app/) |
+| **SkillSwap** | Connect and exchange skills with others in real time. | React, Firebase, Node.js | [View](https://skill-swap-7v22.vercel.app/) |
+| **Bankist App** | A simple banking app to transfer and request loans. | HTML, CSS, JS | [View](https://bankist-appppp.vercel.app/) |
 
 ---
 
@@ -42,19 +42,16 @@ I love building responsive and user-friendly web applications using **React.js, 
 
 ### 🌐 Connect With Me
 <p align="center">
-  <a href="https://linkedin.com/in/your-linkedin" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:your-email@gmail.com"><img src="https://img.shields.io/badge/Email-black?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://yourportfolio.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+  <a href="[https://linkedin.com/in/your-linkedin](https://www.linkedin.com/in/vivek-gupta-038376247/)" ><img src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:itsvivekg10@gmail.com"><img src="https://img.shields.io/badge/Email-black?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="[https://yourportfolio.com](https://vivekportfolio-chi-seven.vercel.app/)" target="_blank"><img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 </p>
 
 ---
 
 ### 🏆 Highlights
-- ⭐ Starred 10+ interesting repositories
-- 📈 Contributing to open-source & improving daily
-- 🤝 Open to collaboration on React or Firebase projects
-
----
+- ⭐ Starred 10+ inspiring repositories  
+- 📈 Actively contributing to open-source projects  
+- 🤝 Open to collaborations on **React** or **Firebase** projects  
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=footer"/>
-
